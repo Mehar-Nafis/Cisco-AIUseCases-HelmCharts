@@ -1,3 +1,1 @@
-# Cisco-AIUseCases-HelmCharts
-
-
+# AI-CIscoUseCases
