@@ -28,7 +28,7 @@ spec:
             - name: NVIDIA_API_KEY
               valueFrom:
                 secretKeyRef:
-                  name: ngc-api-secret
+                  name: ai-defense-secret
                   key: api-key
             - name: HOME
               value: /tmp
